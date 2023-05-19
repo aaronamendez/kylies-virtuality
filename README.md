@@ -4,15 +4,19 @@
 
 ## Installation
 
-> Make sure you are within a new project/folder and run `npm init` or `npm init -y`
+> Make sure you are within a new project/folder and run `npm init` or `npm init -y` as a package.json file is required.
 
-### With NPM
+### Install With
+
+-   NPM
 
 ```
 npm install kylies-virtuality
 ```
 
-### With Yarn
+### Or
+
+-   Yarn
 
 ```
 yarn add kylies-virtuality
