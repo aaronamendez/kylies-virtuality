@@ -12,7 +12,7 @@ It is highly recommended that you run the `npm run start` or `yarn start` comman
 
 -   NPM
 
-```js
+```javascript
 npm install kylies-virtuality
 ```
 
@@ -20,7 +20,7 @@ npm install kylies-virtuality
 
 -   Yarn
 
-```js
+```javascript
 yarn add kylies-virtuality
 ```
 
@@ -35,7 +35,7 @@ yarn add kylies-virtuality
 -   Step 5: Create a new file at the root of the project called index.js
 -   Step 6: Add the following lines of code:
 
-```js
+```javascript
 import kylie from 'kylies-virtuality';
 
 kylie.start();
@@ -52,7 +52,6 @@ kylie.start();
 	"test": "echo \"Error: no test specified\" && exit 1"
 },
 ...
-
 ```
 
 Make sure it has both the type flag set to "module" and the "start" script set to `node index.js` then continue.
