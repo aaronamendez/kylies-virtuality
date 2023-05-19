@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "A nice coat for kylies future repositories",
 	"main": "index.js",
+	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
@@ -14,6 +15,11 @@
 	"author": "Aaron Mendez",
 	"license": "ISC",
 	"dependencies": {
-		"chalk": "^4.1.2"
+		"chalk": "^4.1.2",
+		"chalk-animation": "^2.0.3",
+		"figlet": "^1.6.0",
+		"gradient-string": "^2.0.2",
+		"inquirer": "^9.2.4",
+		"nanospinner": "^1.1.0"
 	}
 }
