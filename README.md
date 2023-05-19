@@ -45,12 +45,14 @@ kylie.start();
 -   Step 7: Make sure your package.json looks like the following:
 
 ```
+...
 "main": "index.js",
-	"type": "module",
-	"scripts": {
-		"start": "node index.js",
-		"test": "echo \"Error: no test specified\" && exit 1"
-  },
+"type": "module",
+"scripts": {
+	"start": "node index.js",
+	"test": "echo \"Error: no test specified\" && exit 1"
+},
+...
 
 ```
 
