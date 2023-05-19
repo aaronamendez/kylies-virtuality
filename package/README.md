@@ -12,7 +12,7 @@ It is highly recommended that you run the `npm run start` or `yarn start` comman
 
 -   NPM
 
-```
+```js
 npm install kylies-virtuality
 ```
 
@@ -20,7 +20,7 @@ npm install kylies-virtuality
 
 -   Yarn
 
-```
+```js
 yarn add kylies-virtuality
 ```
 
@@ -35,16 +35,15 @@ yarn add kylies-virtuality
 -   Step 5: Create a new file at the root of the project called index.js
 -   Step 6: Add the following lines of code:
 
-```
+```js
 import kylie from 'kylies-virtuality';
 
 kylie.start();
-
 ```
 
 -   Step 7: Make sure your package.json looks like the following:
 
-```
+```json
 ...
 "main": "index.js",
 "type": "module",
