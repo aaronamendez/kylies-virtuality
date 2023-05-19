@@ -155,6 +155,8 @@ function itsKylie() {
 	);
 }
 
+start();
+
 export default {
 	start,
 };
