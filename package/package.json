@@ -1,6 +1,6 @@
 {
 	"name": "kylies-virtuality",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A nice coat for kylies future repositories",
 	"main": "index.js",
 	"type": "module",
