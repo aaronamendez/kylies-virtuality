@@ -4,7 +4,7 @@
 
 ## Installation
 
-<Make sure you are within a new project/folder and run `npm init` or `npm init -y`>
+> Make sure you are within a new project/folder and run `npm init` or `npm init -y`
 
 ### With NPM
 
