@@ -79,7 +79,7 @@ async function question2() {
 
 	return handleAnswer(
 		answers.question_2.toLowerCase() == 'kylie' ||
-			answers.question_2.toLowerCase() == 'kylie Ritchie'
+			answers.question_2.toLowerCase() == 'kylie ritchie'
 	);
 }
 
