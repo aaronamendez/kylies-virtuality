@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /*
   She reads to find..
       __...--~~~~~-._   _.-~~~~~--...__
@@ -10,10 +12,10 @@
                     and more..
 */
 
+const chalk = require('chalk');
+
 function helloWorld() {
-	return 'Hello, World!';
+	console.log(chalk.bgGreen('Hello, World!'));
 }
 
-module.exports = {
-	helloWorld,
-};
+module.export = { helloWorld };
